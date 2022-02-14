@@ -14,7 +14,7 @@ const findKey = function(obj, callback) {
     if (callback(obj[item])) {
       return item;
     }
-  } 
+  }
 };
 
 // tests
