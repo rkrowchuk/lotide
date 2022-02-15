@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@rkrowchuk/lotide",
   "version": "1.0.0",
   "description": "lotide library",
   "main": "assertArraysEqual.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/rkrowchuk/lotide.git"
   },
-  "author": "",
+  "author": "Rhiannon Krowchuk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rkrowchuk/lotide/issues"
