@@ -41,6 +41,8 @@ const map = function(array, callback) {
   return results;
 };
 
+module.exports = map;
+
 const results1 = map(words, word => word[0]);
 console.log(results1);
 const results2 = map(words2, word => word[0]);
